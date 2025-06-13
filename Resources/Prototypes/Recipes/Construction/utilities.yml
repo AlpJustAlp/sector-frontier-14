@@ -467,7 +467,6 @@
 
 - type: construction
   id: GasFilterFlipped
-  hide: true
   graph: GasTrinary
   startNode: start
   targetNode: filterflipped
@@ -492,7 +491,6 @@
 
 - type: construction
   id: GasMixerFlipped
-  hide: true
   graph: GasTrinary
   startNode: start
   targetNode: mixerflipped
